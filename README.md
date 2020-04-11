@@ -3,9 +3,14 @@ This repository is about the Machine Learning Course on Coursera by Andrew Nguye
 
 Projects completed within the course:
 
-  \cdot Linear and Logistic Regression
+  Linear and Logistic Regression
+  
   Logistic neural nets to recognize handwritten digits
+  
   SVM spam classifier
+  
   K-Means clustering for color compression
+  
   PCA to reduce dataset dimensionality (whilst preserving variation in the dataset)
+  
   Multivariate Gaussian Distribution to detect anomalies in a database
